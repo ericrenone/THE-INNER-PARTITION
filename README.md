@@ -1,7 +1,7 @@
 # THE INNER PARTITION
 ## Structural Psychology, Identity Economics, and the Neuroscience of Collective Emergence
 
-*Eric Ren · ERI Labs · Jersey City, New Jersey · github.com/ericrenone · 2027*
+*Eric Ren · ERI Labs · Jersey City, New Jersey · github.com/ericrenone · 2026*
 
 ---
 
@@ -460,11 +460,4 @@ Longitudinal measures of intellectual flexibility (divergent thinking tasks), so
 
 ---
 
-*ERI Labs · Eric Ren · Jersey City, New Jersey · github.com/ericrenone · 2027*
-
-*The symptoms are observable. The causes are structural. The partition governs both.*
-
-*Pull requests and citations of current SOTA research welcome.*
-
----
-© 2027 ERI Labs. All rights reserved.
+*ERI Labs · Eric Ren · Jersey City, New Jersey · github.com/ericrenone · 2026*
